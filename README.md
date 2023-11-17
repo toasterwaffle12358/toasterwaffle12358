@@ -1,6 +1,10 @@
 ## Hi!
 
 ### **skills**
+<details>
+  <summary>Server management</summary>
+</details>
+
 - server management
   - docker
   - portainer
