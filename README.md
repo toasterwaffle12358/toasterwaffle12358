@@ -36,5 +36,5 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## **my repos**
-| <a href="https://github.com/toasterwaffle12358/kotlin-connect4">connect4</a> | <a href="https://github.com/toasterwaffle12358/mastermind_game">mastermind</a> | <a href="https://github.com/toasterwaffle12358/art-class-portfolio-2023">art portfolio</a> |
+| <a href="https://github.com/toasterwaffle12358/kotlin-connect4"><img src="http://raw.githubusercontent.com/toasterwaffle12358/toasterwaffle12358/main/connect4_icon.jpg" width='125'><br>connect4</a> | <a href="https://github.com/toasterwaffle12358/mastermind_game"><img src="http://raw.githubusercontent.com/toasterwaffle12358/toasterwaffle12358/main/mastermind_icon.png" width='125'><br>mastermind</a> | <a href="https://github.com/toasterwaffle12358/art-class-portfolio-2023">art portfolio</a> |
 |:-:|:-:|:-:|
