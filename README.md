@@ -34,3 +34,7 @@
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+## **my repos**
+| <a href="https://github.com/toasterwaffle12358/kotlin-connect4">connect4</a> | <a href="https://github.com/toasterwaffle12358/mastermind_game">mastermind</a> | <a href="https://github.com/toasterwaffle12358/art-class-portfolio-2023">art portfolio</a> |
+|:-:|:-:|:-:|
